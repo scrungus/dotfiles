@@ -1,0 +1,11 @@
+2020/12/06-15:13:01.397 1ebd Recovering log #18
+2020/12/06-15:13:01.400 1ebd Level-0 table #20: started
+2020/12/06-15:13:01.485 1ebd Level-0 table #20: 157 bytes OK
+2020/12/06-15:13:01.767 1ebd Delete type=0 #18
+2020/12/06-15:13:01.767 1ebd Delete type=3 #16
+2020/12/06-15:13:01.767 1eef Compacting 3@0 + 0@1 files
+2020/12/06-15:13:01.798 1eef Compacted 3@0 + 0@1 files => 0 bytes
+2020/12/06-15:13:01.998 1eef compacted to: files[ 1 0 0 0 0 0 0 ]
+2020/12/06-15:13:01.999 1eef Delete type=2 #20
+2020/12/06-15:13:01.999 1eef Delete type=2 #14
+2020/12/06-15:13:01.999 1eef Delete type=2 #17

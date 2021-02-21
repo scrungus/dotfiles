@@ -1,0 +1,720 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :auth/app/api.py
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/api.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :auth/app/.spotipyoauthcache
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/.spotipyoauthcache
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :auth/app/api.py
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/api.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :auth/app/api.py
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/api.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/api.py
+> git cat-file -s 95c03a1d8698a011529353aa384592302345812e
+> git show --textconv :auth/app/api.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+fatal: no upstream configured for branch 'authbranch'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/api.py
+> git rev-parse authbranch
+> git cat-file -s 95c03a1d8698a011529353aa384592302345812e
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git show --textconv :auth/app/api.py
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/api.py
+> git check-ignore -v -z --stdin
+> git show --textconv :auth/README.md
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :auth/main.py
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/main.py
+> git cat-file -s 0679eb356aed64e46fa8c19f7e33dd1bd7828286
+> git show --textconv :auth/README.md
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/README.md
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :auth/app/.spotipyoauthcache
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/.spotipyoauthcache
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :auth/.spotipyoauthcache
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/.spotipyoauthcache
+> git cat-file -s 8234a1f446622294e8d5e64ec4aa712cc9e5f870
+> git show --textconv :auth/app/.spotipyoauthcache
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/.spotipyoauthcache
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :auth/README.md
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :auth/requirements.txt
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/requirements.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :auth/README.md
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/README.md
+> git show --textconv :auth/requirements.txt
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/requirements.txt
+> git show --textconv :auth/README.md
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :auth/requirements.txt
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/requirements.txt
+> git show --textconv :auth/README.md
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/README.md
+> git cat-file -s 15c70e7f6eaf2a3c93c39b0530db32a467f89de9
+> git show --textconv :auth/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/README.md
+> git rev-parse authbranch
+> git cat-file -s 15c70e7f6eaf2a3c93c39b0530db32a467f89de9
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git show --textconv :auth/README.md
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/README.md
+> git cat-file -s 557e8d1c3f9d2b8a57741fa4db9fcd0373b500ed
+> git show --textconv :auth/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/README.md
+> git rev-parse authbranch
+> git cat-file -s 557e8d1c3f9d2b8a57741fa4db9fcd0373b500ed
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git show --textconv :auth/README.md
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/README.md
+> git cat-file -s 103e6c6e36fe676d9bfb97caf0f1e3bdef54b4d0
+> git show --textconv :auth/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/README.md
+> git config --get commit.template
+> git cat-file -s 103e6c6e36fe676d9bfb97caf0f1e3bdef54b4d0
+> git show --textconv :auth/README.md
+> git show --textconv :auth/requirements.txt
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/requirements.txt
+> git cat-file -s 584e911595bc40dbc05da7ed89fdeacafbdbaad3

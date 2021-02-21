@@ -1,0 +1,6 @@
+2019/11/01-20:23:20.104 ced Reusing MANIFEST /home/scrungus/.config/chromium/Default/IndexedDB/https_www.amazon.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2019/11/01-20:23:20.104 ced Recovering log #3
+2019/11/01-20:23:20.104 ced Reusing old log /home/scrungus/.config/chromium/Default/IndexedDB/https_www.amazon.co.uk_0.indexeddb.leveldb/000003.log 
+2019/11/01-20:23:20.902 f67 Level-0 table #5: started
+2019/11/01-20:23:21.094 f67 Level-0 table #5: 1613482 bytes OK
+2019/11/01-20:23:21.285 f67 Delete type=0 #3

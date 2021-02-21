@@ -1,0 +1,52 @@
+00:00:01.437419 VirtualBox GUI VM Selector Window 6.0.6 r129722 linux.amd64 (Apr 21 2019 17:21:37) release log
+00:00:01.437421 Log opened 2019-06-15T16:05:24.739283000Z
+00:00:01.437422 Build Type: release
+00:00:01.437424 OS Product: Linux
+00:00:01.437425 OS Release: 5.0.14-rt9-MANJARO
+00:00:01.437426 OS Version: #1 SMP PREEMPT RT Fri May 10 18:18:57 UTC 2019
+00:00:01.437451 DMI Product Name: System Product Name
+00:00:01.437464 DMI Product Version: System Version
+00:00:01.437503 Host RAM: 15931MB (15.5GB) total, 15527MB (15.1GB) available
+00:00:01.437507 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.437507 Process ID: 1151
+00:00:01.437508 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.437538 Qt version: 5.12.3
+00:00:01.584446 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.240035 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1940x20 x 611x1017
+00:00:02.240731 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 3205x20 x 611x1017
+00:00:02.290038 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:37.203369 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:40.314959 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:59.341776 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:01.244448 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:26.303078 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:55.026407 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:57.025435 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:48.892500 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:15:49.125379 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:12.567081 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:22.130820 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:16:22.941262 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:16:23.108760 2D support test succeeded
+00:16:23.158780 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:56.339838 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:17:05.842869 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:17:05.845559 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:19:19.334152 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:19:19.370287 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:19:24.626372 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:19:24.654596 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:19:55.228970 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:20:29.526228 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:20:29.526499 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:20:55.610027 GUI: UIMediumEnumerator: Medium with key={{3030cdd8-4401-44df-8456-4b23bdb90ec2}} created
+00:20:56.740453 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:20:59.160261 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:20:59.411822 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:21:15.733750 GUI: UIMediumEnumerator: Medium with key={{720108cd-a20a-4d9b-b4f2-14a2ac99b2ee}} created
+00:21:18.092021 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:23:30.034670 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:23:30.538718 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:23:30.930300 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:23:31.176377 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:23:51.727562 GUI: UIMediumEnumerator: Medium-enumeration finished!

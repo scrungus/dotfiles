@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-DiskInternals</Name>
+    <Directory>wine-Programs-DiskInternals.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-DiskInternals-DiskInternals ZIP Repair</Name>
+    <Directory>wine-Programs-DiskInternals-DiskInternals ZIP Repair.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-DiskInternals-DiskInternals ZIP Repair-Uninstall.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>

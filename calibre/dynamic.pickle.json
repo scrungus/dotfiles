@@ -1,0 +1,34 @@
+{
+  "add books dialog dir": "/home/scrungus/Downloads", 
+  "catalogs_to_be_synced": {
+    "__class__": "set", 
+    "__value__": []
+  }, 
+  "change cover dialog": "/home/scrungus/Pictures/FRESH memes", 
+  "notified-version-updates": {
+    "__class__": "set", 
+    "__value__": [
+      "4.5", 
+      "3.46", 
+      "4.11", 
+      "4.3", 
+      "3.48"
+    ]
+  }, 
+  "recursive book import root dir dialog": "/run/media/scrungus/Backup/Downloads/Calibre Books", 
+  "sort_history": [
+    [
+      "timestamp", 
+      false
+    ], 
+    [
+      "timestamp", 
+      false
+    ]
+  ], 
+  "update to version 3.37": false, 
+  "update to version 3.38": false, 
+  "update to version 3.39": false, 
+  "welcome_wizard_device": "kindle_pw", 
+  "welcome_wizard_was_run": true
+}

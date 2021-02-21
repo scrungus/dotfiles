@@ -1,0 +1,23 @@
+{
+  "accounts": {
+    "jpherrada@kindle.com": [
+      "AZW, MOBI, TPZ, PRC, AZW1", 
+      false, 
+      true
+    ], 
+    "maylee.christie@kindle.com": [
+      "AZW, MOBI, TPZ, PRC, AZW1", 
+      false, 
+      false
+    ]
+  }, 
+  "aliases": {}, 
+  "encryption": "TLS", 
+  "from_": "drevil629@gmail.com", 
+  "relay_host": null, 
+  "relay_password": "", 
+  "relay_port": 25, 
+  "relay_username": null, 
+  "subjects": {}, 
+  "tags": {}
+}

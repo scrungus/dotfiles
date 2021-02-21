@@ -1,0 +1,42 @@
+[2021-02-17 20:38:38.997] [renderer1] [error] [ms-python.python]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python: Error: [ms-python.python]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+	at a (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:659:99)
+	at Object.t.checkProposedApiEnabled (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:659:567)
+	at Object.get activeNotebookEditor [as activeNotebookEditor] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1010:158)
+	at u.get activeNotebookEditor [as activeNotebookEditor] (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:1203223)
+	at g.provideCodeLenses (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:229657)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:737:163
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at w.provideCodeLenses (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:737:134)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:759:165
+	at G._withAdapter (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideCodeLenses (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:759:143)
+	at g._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-17 20:38:57.774] [renderer1] [error] Error: Unable to read file '/home/scrungus/.vscode-oss/extensions/ignorethis.teste-2.1.2/snippets/javascript.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/scrungus/.vscode-oss/extensions/ignorethis.teste-2.1.2/snippets/javascript.json')
+    at _.doReadAsFileStream (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1765:809)
+    at async _.readFile (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1764:933)
+    at async a.readExtensionResource (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:4093:943)
+    at async Promise.all (index 16)
+    at async provideCompletionItems (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3633:351)
+    at async file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2126:459 file:///home/scrungus/.vscode-oss/extensions/ignorethis.teste-2.1.2/snippets/javascript.json

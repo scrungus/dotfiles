@@ -1,0 +1,8 @@
+[2021-02-17 14:18:19.186] [sharedprocess] [info] main {"machineId":"68bb72a60fa8a4a5e512c212461e8b314ebf567dfd2a2ffbacf1523b2803b443","windowId":2}
+[2021-02-17 14:18:28.156] [sharedprocess] [info] Installing extension: golang.go
+[2021-02-17 14:18:32.594] [sharedprocess] [info] Downloaded extension: golang.go undefined
+[2021-02-17 14:18:32.731] [sharedprocess] [info] Extracted extension to /home/scrungus/.vscode-oss/extensions/.golang.go-0.22.1: golang.go
+[2021-02-17 14:18:32.732] [sharedprocess] [info] Renamed to /home/scrungus/.vscode-oss/extensions/golang.go-0.22.1
+[2021-02-17 14:18:32.733] [sharedprocess] [info] Installation completed. golang.go
+[2021-02-17 14:18:34.582] [sharedprocess] [info] Extensions installed successfully: golang.go
+[2021-02-17 14:18:59.206] [sharedprocess] [info] Starting to clean up unused language packs.

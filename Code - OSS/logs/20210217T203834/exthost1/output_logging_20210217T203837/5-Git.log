@@ -1,0 +1,60 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :auth/app/api.py
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/api.py
+> git cat-file -s a81ae07f7fa17e16a37889c03e497d479f0fcc76
+> git show --textconv :README.md
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/README.md
+> git cat-file -s fd88ca22d61457b4137309089bb39aea1f65778e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/README.md
+> git cat-file -s a811d4287bcef6840dae19b544aa0427593bab4f
+> git show --textconv :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/README.md
+> git symbolic-ref --short HEAD
+> git cat-file -s a811d4287bcef6840dae19b544aa0427593bab4f
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git show --textconv :README.md
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

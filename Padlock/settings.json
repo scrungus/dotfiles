@@ -1,0 +1,13 @@
+{
+	"autoDownloadUpdates": false,
+	"allowPrerelease": false,
+	"windowBounds": {
+		"x": 1920,
+		"y": 226,
+		"width": 800,
+		"height": 600
+	},
+	"fullscreen": false,
+	"dbPath": "/home/scrungus/.config/Padlock/data.pls",
+	"uuid": "763f68ee-81ed-47e7-8eaf-8274b1699b18"
+}

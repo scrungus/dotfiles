@@ -1,0 +1,51 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAAeAAAAAEgAADv8AAAQkAAAHggAAABIAAA79AAAEIgAAAAAAAAAAB4AAAAeCAAAAEgAADv0AAAQi"
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////AAAAAQAAAAAAAAAA/AIAAAAD+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAAzQD////7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAABjAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAAHfAAABBEAAAAEAAAABAAAAAgAAAAI/AAAAAA="
+  }, 
+  "old_prefs_migrated": true, 
+  "session_data": {
+    "base_font_size": 20, 
+    "controls_help_shown_count": 2, 
+    "standalone_font_settings": {}, 
+    "standalone_misc_settings": {
+      "remember_last_read": true, 
+      "remember_window_geometry": false, 
+      "save_annotations_in_ebook": true, 
+      "singleinstance": false
+    }, 
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Christopher Negus"
+        ], 
+        "key": "/home/scrungus/Calibre Library/Christopher Negus/Linux Bible (78)/Linux Bible - Christopher Negus.epub", 
+        "pathtoebook": "/home/scrungus/Calibre Library/Christopher Negus/Linux Bible (78)/Linux Bible - Christopher Negus.epub", 
+        "timestamp": "2020-02-28T19:43:35.481Z", 
+        "title": "Linux Bible"
+      }, 
+      {
+        "authors": [
+          "J.D. Salinger"
+        ], 
+        "key": "/home/scrungus/Calibre Library/J.D. Salinger/The Catcher in the Rye (67)/The Catcher in the Rye - J.D. Salinger.epub", 
+        "pathtoebook": "/home/scrungus/Calibre Library/J.D. Salinger/The Catcher in the Rye (67)/The Catcher in the Rye - J.D. Salinger.epub", 
+        "timestamp": "2019-12-01T17:42:39.402Z", 
+        "title": "The Catcher in the Rye"
+      }, 
+      {
+        "authors": [
+          "Sam Hyde, Nick Rochefort, Charls \"Coors\" Carroll, et al."
+        ], 
+        "key": "/home/scrungus/Calibre Library/Sam Hyde, Nick Rochefort, Charls _Coors_ Carroll, et al_/How to BOMB the U.S. Gov't (52)/How to BOMB the U.S. Gov't - Sam Hyde, Nick Rochefort, Charls _Coors_ C.mobi", 
+        "pathtoebook": "/home/scrungus/Calibre Library/Sam Hyde, Nick Rochefort, Charls _Coors_ Carroll, et al_/How to BOMB the U.S. Gov't (52)/How to BOMB the U.S. Gov't - Sam Hyde, Nick Rochefort, Charls _Coors_ C.mobi", 
+        "timestamp": "2019-12-01T17:42:07.904Z", 
+        "title": "How to BOMB the U.S. Gov't"
+      }
+    ]
+  }
+}

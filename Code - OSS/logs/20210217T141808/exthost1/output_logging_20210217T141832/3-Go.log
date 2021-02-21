@@ -1,0 +1,7 @@
+Tools environment: GOPATH=/home/scrungus/go
+Installing 1 tool at /home/scrungus/go/bin in module mode.
+  gopls
+
+Installing golang.org/x/tools/gopls (/home/scrungus/go/bin/gopls) SUCCEEDED
+
+All tools successfully installed. You are ready to Go :).

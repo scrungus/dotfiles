@@ -1,0 +1,1088 @@
+Desktop is 1920 x 1080 @ 60 Hz
+Initialize engine version: 2018.2.21f1 (a122f5dc316d)
+GfxDevice: creating device client; threaded=1
+Renderer: AMD Radeon (TM) RX 480 Graphics (POLARIS10, DRM 3.32.0, 5.2.21-rt13-MANJARO, LLVM 9.0.0)
+Vendor:   X.Org
+Version:  4.5 (Core Profile) Mesa 19.2.2
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object G
+L_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_obje
+ct_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo 
+GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL
+_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_conditional_render GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 46658288
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.080 seconds
+Default vsync count 0
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Uber' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Uber' - Pass '' has no vertex shader
+UnloadTime: 0.382000 ms
+[Profiler] SfxManager.Awake: 252.89ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Discord: init
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Facepunch.Steamworks Unity: LinuxPlayer
+Facepunch.Steamworks Os: Linux
+Facepunch.Steamworks Arch: x64
+[Manifest] URI IS "https://api.facepunch.com/api/public/manifest/?public_key=xw9A1IxmsTNShCgI0IVI8roKSBrafijfk1ljfwBezR2lSwj27aJZSTAgHlpCEuRd"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Updating archived replay list...
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Fuse-1069339010.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Fuse-1432870501.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Fuse-1616443200.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Fuse-1616445499.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Fuse-1706421733.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Fuse-1800009833.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Fuse-229238.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Fuse-889374268.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Octopus-1468957739.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Octopus-1569696389.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Octopus-1692090688.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Octopus-390316.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Octopus-575420.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Octopus-831955707.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Satellite-1501249216.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Satellite-1702830350.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Satellite-957707625.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Tentacles-1508493205.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Tentacles-1558865333.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Tentacles-1569697506.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Tentacles-1584058299.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Tentacles-1584085771.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Tentacles-1587683153.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Tentacles-1594878752.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Tentacles-1605693239.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Tentacles-1771257666.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Leaderboard cloud replay: "replays/leaderboard/Tentacles-1792824066.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Satellite/10-48d509c3505c4016-30366.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Satellite/10-48d509c362b80b1a-9283.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Satellite/10-48d509c368909bd6-12450.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Satellite/10-48d509c370477a7e-10667.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Satellite/10-48d509c376f12746-9267.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Satellite/10-48d509c37cc55d54-39600.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Satellite/10-48d509c394acdcb8-49233.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Satellite/10-48d509c3b256242d-29033.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Satellite/10-48d509c3c3f2876a-34216.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Satellite/10-48d509c3d8a6d945-9567.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Satellite/10-48d509c3dea84978-107642.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Satellite/10-48d509c41f1b3bf8-8200.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c0555b8b07-46333.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c07138b883-4000.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c073e77aed-7967.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c078f58c54-58633.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c09c351eca-3800.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c09ec63998-3967.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c0a17178b7-41216.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c0ba4cc4e3-7850.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c0bf47a32b-7867.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c0d12a9d29-91055.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c107b9829e-4817.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c10ae5a3f6-93222.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c142c1dae9-51333.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c161a67d45-48066.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c17e984c57-91138.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c1b539711b-8533.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c1ba98d313-4683.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c1bdb305cf-66383.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c1e593acef-2900.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c1e79b1652-58849.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c20afc188c-4750.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c20e1e8dd0-43133.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c228208456-71634.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c253219c10-19467.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c25f09ca26-5417.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c2628e66dd-19400.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c26e6ae430-5833.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/10-48d509c27232a3d6-48616.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/12-48d50a9c44bd3010-78752.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/12-48d50a9c73b1b0c2-10700.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/12-48d50a9c7a126a03-65333.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/12-48d50a9ca109a583-131412.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/12-48d50a9cef5ea590-58249.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/12-48d50a9d12168a06-57383.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/12-48d50a9d3450f869-49699.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unrecognised Normal cloud replay: "replays/Tentacles/12-48d50a9d51f27db2-102924.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Found 32 archived replays (9 local, 23 cloud):
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+- (Resources) intro: 2 replays, 283.12 seconds
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+- (Resources) octopus: 16 replays, 2059.99 seconds
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+- (Resources) fuse: 14 replays, 919.98 seconds
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.EnforceReplayDurationQuota: 0.34ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536319
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536323
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536325
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536327
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536329
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536320
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536322
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536326
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536330
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536321
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536328
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536332
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536333
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536324
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536334
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3536331
+Your global rank for Crusade: 5582 of 7088 players! (Top 79%)
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Load timings:
+  "SfxData": 2416.6ms
+    "SfxData:misc/confused": 63.3ms
+    "SfxData:stage/orb-spawn": 55.1ms
+    "SfxData:ui/ui-submenu-hover-002": 48.9ms
+    "SfxData:stage/invasion-warning": 48.3ms
+    "SfxData:stage/intro-implode-end": 44.4ms
+    "SfxData:stage/storm-meteor-bullet-hit": 38.8ms
+    "SfxData:shoot/shoot-static-laser-long-af": 35.3ms
+    "SfxData:misc/all-prereqs-destroyed": 33.3ms
+    "SfxData:stage/invasion-spawn": 31.0ms
+    "SfxData:stage/octopus-small-spread-shoot": 30.3ms
+    ... and 376 more
+
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "claw"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "default"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "frame"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "fuse"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "hunter"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "intro"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "invasion"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "laser"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "mech"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "octopus"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "onion"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "orb"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "settings"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "storm"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "tentacle"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "trench"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Reading string file "tutorial"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Unable to parse language from ''.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+No strings found for language '', falling back to 'en-US'.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] GameManager.CreateStageFromID: 29.59ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Load timings:
+  "AudioClip": 9372.1ms
+    "AudioClip:music/002/002-melody-b": 343.8ms
+    "AudioClip:music/022/022-drums": 215.2ms
+    "AudioClip:music/023/023-drums": 200.6ms
+    "AudioClip:music/002/002-melody-a": 191.3ms
+    "AudioClip:music/025/025-drums": 185.4ms
+    "AudioClip:music/017/017-drums": 181.8ms
+    "AudioClip:music/012/012-melody-a": 177.3ms
+    "AudioClip:music/015/015-melody-d": 171.7ms
+    "AudioClip:music/019/019-drums": 163.2ms
+    "AudioClip:music/021/021-drums": 148.6ms
+    ... and 107 more
+  "CoreData": 351.9ms
+    "CoreData:fuse/core/smallCore": 59.8ms
+    "CoreData:tentacle/core/core": 57.0ms
+    "CoreData:misc/core/frame/core1": 50.2ms
+    "CoreData:misc/core/clam/core0": 44.1ms
+    "CoreData:misc/core/purpleEye/core0": 40.7ms
+    "CoreData:misc/core/hunter/core0": 39.9ms
+    "CoreData:misc/core/laser/core0": 31.3ms
+    "CoreData:misc/core/storm/core0": 5.6ms
+    "CoreData:misc/core/invasion/core1": 5.4ms
+    "CoreData:misc/core/redEyeReptile/core0": 4.3ms
+    ... and 17 more
+  "StageMenuData": 19.4ms
+    "StageMenuData:endless/hell/stage": 10.5ms
+    "StageMenuData:endless/garden/stage": 7.2ms
+    "StageMenuData:endless/walls/stage": 1.7ms
+    "StageMenuData:intro/stage": 0.0ms
+    "StageMenuData:invasion/stage": 0.0ms
+    "StageMenuData:trench/stage": 0.0ms
+    "StageMenuData:orb/stage": 0.0ms
+    "StageMenuData:fuse/stage": 0.0ms
+    "StageMenuData:octopus/stage": 0.0ms
+    "StageMenuData:mech/stage": 0.0ms
+    ... and 17 more
+  "GameModeData": 18.2ms
+    "GameModeData:Endless": 18.2ms
+    "GameModeData:gamemodes/timeattack": 0.0ms
+  "FuncParams": 1.4ms
+    "FuncParams:funcParams/gamemode": 1.4ms
+    "FuncParams:funcParams/song": 0.0ms
+    "FuncParams:funcParams/songLayer": 0.0ms
+  "CampaignListData": 0.0ms
+    "CampaignListData:misc/campaigns": 0.0ms
+
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached ButtonPromptData "button-prompt-config"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached FuncParams "funcParams/core"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] GameManager.CreateStageFromID: 537.26ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Load timings:
+  "BulletData": 1425.3ms
+    "BulletData:misc/bullet/effect/repel": 72.5ms
+    "BulletData:status/passive/shield.bubbleEffect": 61.3ms
+    "BulletData:octopus/pattern/bubble.bullet": 50.8ms
+    "BulletData:octopus/pattern/bubbleGrid.bullet2": 44.2ms
+    "BulletData:player/bullet/default": 42.3ms
+    "BulletData:misc/pattern/warning.warningBullet": 41.6ms
+    "BulletData:status/convert.circleBullet": 39.8ms
+    "BulletData:octopus/pattern/powerup0Mid.pow1": 37.7ms
+    "BulletData:status/slowmo.effectBullet": 37.0ms
+    "BulletData:status/freeze.useEffect": 36.5ms
+    ... and 119 more
+  "AudioClip": 629.4ms
+    "AudioClip:music/019/019-drums": 158.1ms
+    "AudioClip:music/019/019-melody-b": 77.8ms
+    "AudioClip:music/019/019-melody-c": 76.3ms
+    "AudioClip:music/019/019-melody-e": 68.0ms
+    "AudioClip:music/019/019-chords": 60.9ms
+    "AudioClip:music/019/019-melody-f": 59.9ms
+    "AudioClip:music/019/019-melody-d": 52.5ms
+    "AudioClip:music/019/019-melody-a": 48.5ms
+    "AudioClip:music/019/019-bassline": 27.5ms
+  "StatusEffectData": 333.3ms
+    "StatusEffectData:status/passive/shield": 88.4ms
+    "StatusEffectData:status/freeze": 34.3ms
+    "StatusEffectData:status/passive/damage": 32.7ms
+    "StatusEffectData:status/repel": 26.5ms
+    "StatusEffectData:status/cannon": 23.4ms
+    "StatusEffectData:status/slice": 22.5ms
+    "StatusEffectData:status/convert": 22.0ms
+    "StatusEffectData:status/turret": 19.3ms
+    "StatusEffectData:status/addDoubleGun": 18.8ms
+    "StatusEffectData:status/effect/hurtEffect": 16.6ms
+    ... and 13 more
+  "FsmData": 137.4ms
+    "FsmData:octopus/unit/boss.fsm": 97.4ms
+    "FsmData:octopus/stage.fsm": 36.4ms
+    "FsmData:octopus/unit/turret.fsm": 3.5ms
+    "FsmData:misc/unit/egg.fsm": 0.1ms
+  "PatternData": 81.6ms
+    "PatternData:misc/pattern/shoot/singleRedRound": 20.4ms
+    "PatternData:misc/pattern/effect/playerDeathCirclePattern": 19.3ms
+    "PatternData:misc/pattern/shoot/fanRedRound": 5.4ms
+    "PatternData:player/pattern/defaultBulletPattern": 2.5ms
+    "PatternData:octopus/pattern/spread.spokes1": 1.6ms
+    "PatternData:octopus/pattern/powerup0Mid": 0.9ms
+    "PatternData:octopus/pattern/powerup0Mid.childPattern": 0.9ms
+    "PatternData:octopus/pattern/curseBubbleOrb.childPattern": 0.9ms
+    "PatternData:intro/pattern/revenge": 0.6ms
+    "PatternData:misc/pattern/eggShield.childPattern": 0.5ms
+    ... and 117 more
+  "PlayerData": 48.4ms
+    "PlayerData:player/defaultPlayer": 48.4ms
+  "StatusEffectCategoryData": 24.9ms
+    "StatusEffectCategoryData:status/categories.shield": 24.0ms
+    "StatusEffectCategoryData:status/categories.defensive": 0.3ms
+    "StatusEffectCategoryData:status/categories.offensive": 0.2ms
+    "StatusEffectCategoryData:status/categories.weird": 0.1ms
+    "StatusEffectCategoryData:status/categories.explosive": 0.1ms
+    "StatusEffectCategoryData:status/categories.damage": 0.1ms
+  "PlayerGunData": 21.3ms
+    "PlayerGunData:player/gun/default": 15.8ms
+    "PlayerGunData:player/gun/double": 5.5ms
+  "FuncParams": 21.0ms
+    "FuncParams:funcParams/player": 10.9ms
+    "FuncParams:funcParams/bullet": 6.8ms
+    "FuncParams:funcParams/status": 1.5ms
+    "FuncParams:funcParams/pixelGroup": 0.8ms
+    "FuncParams:funcParams/pattern": 0.8ms
+    "FuncParams:funcParams/playerGun": 0.2ms
+    "FuncParams:funcParams/stage": 0.0ms
+    "FuncParams:funcParams/song": 0.0ms
+    "FuncParams:funcParams/userData": 0.0ms
+    "FuncParams:funcParams/songLayer": 0.0ms
+    ... and 12 more
+  "CoreData": 16.0ms
+    "CoreData:player/core": 4.4ms
+    "CoreData:misc/core/octopus/core1": 3.3ms
+    "CoreData:misc/core/octopus/largeGun": 2.4ms
+    "CoreData:misc/core/octopus/core2": 1.9ms
+    "CoreData:misc/core/octopus/smallGun": 1.5ms
+    "CoreData:misc/core/egg": 1.2ms
+    "CoreData:misc/core/octopus/smallGunOptional": 1.2ms
+    "CoreData:misc/core/octopus/core0": 0.0ms
+  "GameModeData": 0.9ms
+    "GameModeData:gamemodes/timeattack": 0.9ms
+  "Texture2D": 0.0ms
+    "Texture2D:Textures/player-default": 0.0ms
+    "Texture2D:pxc_textures/black_line5": 0.0ms
+    "Texture2D:status/icons/shield": 0.0ms
+    "Texture2D:Textures/two-channel-gradient": 0.0ms
+    "Texture2D:pxc_textures/blurredClouds": 0.0ms
+    "Texture2D:sprites/rect/gradientRG": 0.0ms
+    "Texture2D:sprites/circle/blur1": 0.0ms
+    "Texture2D:sprites/diamond/fade1": 0.0ms
+    "Texture2D:status/icons/turret": 0.0ms
+    "Texture2D:status/icons/repel": 0.0ms
+    ... and 63 more
+  "SampleFileData": 0.0ms
+    "SampleFileData:music/019/019-drums": 0.0ms
+    "SampleFileData:music/019/019-bassline": 0.0ms
+    "SampleFileData:music/019/019-chords": 0.0ms
+    "SampleFileData:music/019/019-melody-a": 0.0ms
+    "SampleFileData:music/019/019-melody-c": 0.0ms
+    "SampleFileData:music/019/019-melody-f": 0.0ms
+    "SampleFileData:music/019/019-melody-b": 0.0ms
+    "SampleFileData:music/019/019-melody-e": 0.0ms
+    "SampleFileData:music/019/019-melody-d": 0.0ms
+  "PxcSourceData": 0.0ms
+    "PxcSourceData:octopus/pxc/boss/form0/source": 0.0ms
+    "PxcSourceData:octopus/pxc/turret/source": 0.0ms
+    "PxcSourceData:octopus/pxc/boss/form1/source": 0.0ms
+    "PxcSourceData:octopus/pxc/boss/form2/source": 0.0ms
+  "SubroutineData": 0.0ms
+    "SubroutineData:octopus/unit/boss.speech.sub": 0.0ms
+    "SubroutineData:octopus/unit/boss.mediumPart.sub": 0.0ms
+    "SubroutineData:octopus/unit/boss.partDestroyed0.sub": 0.0ms
+    "SubroutineData:octopus/unit/boss.gunClench.sub": 0.0ms
+    "SubroutineData:octopus/unit/boss.smallPart.sub": 0.0ms
+    "SubroutineData:octopus/unit/boss.tauntSpeech.sub": 0.0ms
+    "SubroutineData:octopus/unit/boss.partDestroyed1.sub": 0.0ms
+    "SubroutineData:player/defaultPlayer.powerupFloater.sub": 0.0ms
+    "SubroutineData:player/defaultPlayer.losePowerupFloater.sub": 0.0ms
+    "SubroutineData:octopus/unit/boss.attackSpeech.sub": 0.0ms
+    ... and 16 more
+  "SongConfigData": 0.0ms
+    "SongConfigData:music/019": 0.0ms
+  "StageData": 0.0ms
+    "StageData:octopus/stage": 0.0ms
+  "UnitData": 0.0ms
+    "UnitData:octopus/unit/boss": 0.0ms
+    "UnitData:octopus/unit/turret": 0.0ms
+    "UnitData:misc/unit/eggShield": 0.0ms
+
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Allocating 256x256x128 atlas.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Allocating 128x128x4 atlas.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Allocating 16x16x1 atlas.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.StopRecording: 6.46ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.Archive: 7.20ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Progress: 19.5%
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving debug replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f430a485a6-47316-debug.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f430a485a6-47316.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Attempting to submit score for (Resources) octopus (47316, 0.1954538, 1447245516)
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.StopRecording: 0.02ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.Archive: 0.14ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Progress: 19.5%
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Attempting to submit score for (Resources) octopus (29000, 0.1954538, 1447227200)
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving debug replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f44db5bfde-29000-debug.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f44db5bfde-29000.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.StopRecording: 0.02ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.Archive: 0.15ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Progress: 9.8%
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Attempting to submit score for (Resources) octopus (25550, 0.09839058, 1620023750)
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving debug replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f45fc4ff46-25550-debug.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f45fc4ff46-25550.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.StopRecording: 0.02ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.Archive: 0.42ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Progress: 9.7%
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Attempting to submit score for (Resources) octopus (24750, 0.09739505, 1623622950)
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving debug replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f46fd2dd4a-24750-debug.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f46fd2dd4a-24750.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.StopRecording: 3.22ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.Archive: 0.50ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Progress: 74.7%
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Attempting to submit score for (Resources) octopus (244750, 0.7468372, 453842950)
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving debug replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f47f15e1c6-244750-debug.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f47f15e1c6-244750.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Attempting to attach replay for (Resources) octopus
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Deleting old leaderboard replay
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "intro/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Successfully attached replay to leaderboard
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.StopRecording: 0.02ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.Archive: 0.14ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Progress: 9.9%
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Attempting to submit score for (Resources) octopus (19150, 0.0986973, 1620017350)
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving debug replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f51109af54-19150-debug.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f51109af54-19150.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.StopRecording: 0.02ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.Archive: 0.18ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Progress: 12.6%
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Attempting to submit score for (Resources) octopus (26883, 0.1256186, 1573225083)
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving debug replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f51c7e72f2-26883-debug.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f51c7e72f2-26883.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.StopRecording: 11.01ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] Replay.Archive: 0.89ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Progress: 85.8%
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Attempting to submit score for (Resources) octopus (350316, 0.858068, 252348516)
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving debug replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f52d232ed6-350316-debug.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Archiving replay at "/home/scrungus/.config/unity3d/Facepunch Studios LTD/Chippy/replays/octopus/39-48d770f52d232ed6-350316.spr"
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Attempting to attach replay for (Resources) octopus
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Deleting old leaderboard replay
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Successfully attached replay to leaderboard
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+[Profiler] GameManager.CreateStageFromID: 6.20ms
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Load timings:
+  "AudioClip": 493.1ms
+    "AudioClip:music/019/019-drums": 159.0ms
+    "AudioClip:music/019/019-melody-b": 75.0ms
+    "AudioClip:music/019/019-melody-c": 74.5ms
+    "AudioClip:music/019/019-chords": 61.1ms
+    "AudioClip:music/019/019-melody-d": 49.4ms
+    "AudioClip:music/019/019-melody-a": 46.5ms
+    "AudioClip:music/019/019-bassline": 27.5ms
+    "AudioClip:music/017/017-bassline": 0.0ms
+    "AudioClip:music/025/025-drums": 0.0ms
+    "AudioClip:music/017/017-melody-b": 0.0ms
+    ... and 107 more
+  "CoreData": 1.7ms
+    "CoreData:misc/core/prisoner/core0": 0.6ms
+    "CoreData:misc/core/redEyeReptile/core0": 0.6ms
+    "CoreData:misc/core/hell/core2": 0.4ms
+    "CoreData:misc/core/hunter/core0": 0.0ms
+    "CoreData:misc/core/intro/core0": 0.0ms
+    "CoreData:tentacle/core/core": 0.0ms
+    "CoreData:misc/core/laser/core0": 0.0ms
+    "CoreData:misc/core/purpleEye/core0": 0.0ms
+    "CoreData:misc/core/clam/core0": 0.0ms
+    "CoreData:misc/core/redEyeRobot/core0": 0.0ms
+    ... and 17 more
+  "StageMenuData": 0.9ms
+    "StageMenuData:endless/walls/stage": 0.4ms
+    "StageMenuData:endless/hell/stage": 0.2ms
+    "StageMenuData:endless/garden/stage": 0.2ms
+    "StageMenuData:orb/stage": 0.0ms
+    "StageMenuData:trench/stage": 0.0ms
+    "StageMenuData:invasion/stage": 0.0ms
+    "StageMenuData:intro/stage": 0.0ms
+    "StageMenuData:frame/stage": 0.0ms
+    "StageMenuData:octopus/stage": 0.0ms
+    "StageMenuData:fuse/stage": 0.0ms
+    ... and 17 more
+  "GameModeData": 0.2ms
+    "GameModeData:Endless": 0.2ms
+    "GameModeData:gamemodes/timeattack": 0.0ms
+  "FuncParams": 0.1ms
+    "FuncParams:funcParams/gamemode": 0.1ms
+    "FuncParams:funcParams/song": 0.0ms
+    "FuncParams:funcParams/songLayer": 0.0ms
+  "CampaignListData": 0.0ms
+    "CampaignListData:misc/campaigns": 0.0ms
+
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached FuncParams "funcParams/core"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "intro/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached GameModeData "gamemodes/timeattack"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "octopus/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "mech/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "fuse/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "trench/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "onion/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "hunter/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "tentacle/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached GameModeData "gamemodes/timeattack"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "claw/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "orb/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "frame/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "laser/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Loading non-cached StageMenuData "storm/stage"!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3926680
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3926682
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3926710
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3926712
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3926715
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3926677
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3926679
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3926683
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3926713
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3926678
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3926711
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3926681
+result.LeaderboardFound: 1
+result.SteamLeaderboard: 3926714
+Disposing SteamClient...
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Finished OnApplicationQuit() after 0.399s
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 7f200d6bf700 -> priority: 1 
+Discord: shutdown
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 43)
+

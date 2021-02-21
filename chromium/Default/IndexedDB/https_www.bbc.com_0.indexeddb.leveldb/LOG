@@ -1,0 +1,5 @@
+2021/01/13-17:02:32.490 e32 Reusing MANIFEST /home/scrungus/.config/chromium/Default/IndexedDB/https_www.bbc.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/13-17:04:28.018 e68 Level-0 table #5: started
+2021/01/13-17:04:28.132 e68 Level-0 table #5: 3270 bytes OK
+2021/01/13-17:04:28.259 e68 Delete type=0 #3
+2021/01/13-17:04:28.260 e68 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,13 @@
+[2021-02-21 19:39:03.926] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2021-02-21 19:39:03.930] [sharedprocess] [info] Installing extension: vscjava.vscode-java-dependency
+[2021-02-21 19:39:05.127] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-dependency undefined
+[2021-02-21 19:39:05.128] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github undefined
+[2021-02-21 19:39:05.255] [sharedprocess] [info] Extracted extension to /home/scrungus/.vscode-oss/extensions/.vscjava.vscode-java-dependency-0.18.0: vscjava.vscode-java-dependency
+[2021-02-21 19:39:05.256] [sharedprocess] [info] Renamed to /home/scrungus/.vscode-oss/extensions/vscjava.vscode-java-dependency-0.18.0
+[2021-02-21 19:39:05.257] [sharedprocess] [info] Installation completed. vscjava.vscode-java-dependency
+[2021-02-21 19:39:05.325] [sharedprocess] [info] Extracted extension to /home/scrungus/.vscode-oss/extensions/.github.vscode-pull-request-github-0.22.0: github.vscode-pull-request-github
+[2021-02-21 19:39:05.325] [sharedprocess] [info] Renamed to /home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.22.0
+[2021-02-21 19:39:05.326] [sharedprocess] [info] Installation completed. github.vscode-pull-request-github
+[2021-02-21 19:39:05.610] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-dependency
+[2021-02-21 19:39:05.831] [sharedprocess] [info] Extensions installed successfully: github.vscode-pull-request-github
+[2021-02-21 19:39:38.290] [sharedprocess] [info] Starting to clean up unused language packs.

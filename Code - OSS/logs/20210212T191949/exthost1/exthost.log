@@ -1,0 +1,117 @@
+[2021-02-12 19:19:56.869] [exthost] [info] extension host started
+[2021-02-12 19:19:56.931] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2021-02-12 19:19:56.931] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/python/dist/pythonMain
+[2021-02-12 19:19:57.046] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2021-02-12 19:19:57.046] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension
+[2021-02-12 19:19:57.895] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:python"}
+[2021-02-12 19:19:57.895] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/visualstudioexptteam.vscodeintellicode-1.2.10/dist/intellicode
+[2021-02-12 19:19:58.096] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-12 19:19:58.096] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-02-12 19:19:58.105] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-02-12 19:19:58.105] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-12 19:19:58.145] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-12 19:19:58.145] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-02-12 19:19:58.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-02-12 19:19:58.232] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-12 19:19:58.244] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-02-12 19:19:58.244] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2021-02-12 19:19:58.267] [exthost] [info] ExtensionService#_doActivateExtension albert.TabOut {"startup":true,"extensionId":{"value":"albert.TabOut","_lower":"albert.tabout"},"activationEvent":"*"}
+[2021-02-12 19:19:58.267] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/albert.tabout-0.2.0/out/src/extension
+[2021-02-12 19:19:58.336] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2021-02-12 19:19:58.337] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2021-02-12 19:19:58.413] [exthost] [info] ExtensionService#_doActivateExtension johnstoncode.svn-scm {"startup":true,"extensionId":{"value":"johnstoncode.svn-scm","_lower":"johnstoncode.svn-scm"},"activationEvent":"*"}
+[2021-02-12 19:19:58.413] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/johnstoncode.svn-scm-2.13.5/out/extension
+[2021-02-12 19:19:59.208] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-12 19:19:59.208] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-12 19:19:59.627] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-12 19:19:59.627] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-02-12 19:20:01.031] [exthost] [info] eager extensions activated
+[2021-02-12 19:20:01.091] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-02-12 19:20:01.091] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/formulahendry.code-runner-0.11.2/out/src/extension
+[2021-02-12 19:20:02.064] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":false,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"onStartupFinished"}
+[2021-02-12 19:20:02.064] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension
+[2021-02-12 19:20:03.179] [exthost] [error] [ms-python.python] provider FAILED
+[2021-02-12 19:20:03.179] [exthost] [error] Error: [ms-python.python]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+	at a (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:659:99)
+	at Object.t.checkProposedApiEnabled (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:659:567)
+	at Object.get activeNotebookEditor [as activeNotebookEditor] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1010:158)
+	at u.get activeNotebookEditor [as activeNotebookEditor] (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:1203223)
+	at g.provideCodeLenses (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:229657)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:737:163
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at w.provideCodeLenses (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:737:134)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:759:165
+	at G._withAdapter (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideCodeLenses (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:759:143)
+	at g._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-02-12 19:20:04.139] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-12 19:20:04.139] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github-authentication/dist/extension.js
+[2021-02-12 19:20:09.928] [exthost] [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+[2021-02-12 19:20:09.930] [exthost] [error] Error: [GitHub.vscode-pull-request-github]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+	at a (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:659:99)
+	at Object.t.checkProposedApiEnabled (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:659:567)
+	at Object.registerDecorationProvider (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1002:508)
+	at new t.PullRequestsTreeDataProvider (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:609822)
+	at /home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:708618
+	at Generator.next (<anonymous>)
+	at s (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:705823)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2021-02-12 19:22:05.722] [exthost] [error] [ms-python.python] provider FAILED
+[2021-02-12 19:22:05.723] [exthost] [error] Error: [ms-python.python]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+	at a (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:659:99)
+	at Object.t.checkProposedApiEnabled (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:659:567)
+	at Object.get activeNotebookEditor [as activeNotebookEditor] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1010:158)
+	at u.get activeNotebookEditor [as activeNotebookEditor] (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:1203223)
+	at g.provideCodeLenses (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:229657)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:737:163
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at w.provideCodeLenses (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:737:134)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:759:165
+	at G._withAdapter (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideCodeLenses (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:759:143)
+	at g._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)

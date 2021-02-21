@@ -1,0 +1,136 @@
+[2021-02-21 19:39:01.883] [exthost] [info] extension host started
+[2021-02-21 19:39:02.022] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-02-21 19:39:02.022] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extensionEditingMain
+[2021-02-21 19:39:02.037] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-02-21 19:39:02.037] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/markdown-language-features/dist/extension
+[2021-02-21 19:39:02.067] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":false,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"onLanguage:markdown"}
+[2021-02-21 19:39:02.067] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/yzhang.markdown-all-in-one-3.4.0/dist/extension
+[2021-02-21 19:39:02.360] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-21 19:39:02.360] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-02-21 19:39:02.363] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-21 19:39:02.363] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-02-21 19:39:02.406] [exthost] [info] ExtensionService#_doActivateExtension albert.TabOut {"startup":true,"extensionId":{"value":"albert.TabOut","_lower":"albert.tabout"},"activationEvent":"*"}
+[2021-02-21 19:39:02.406] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/albert.tabout-0.2.0/out/src/extension
+[2021-02-21 19:39:02.799] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2021-02-21 19:39:02.799] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2021-02-21 19:39:02.996] [exthost] [info] ExtensionService#_doActivateExtension johnstoncode.svn-scm {"startup":true,"extensionId":{"value":"johnstoncode.svn-scm","_lower":"johnstoncode.svn-scm"},"activationEvent":"*"}
+[2021-02-21 19:39:02.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/johnstoncode.svn-scm-2.13.5/out/extension
+[2021-02-21 19:39:03.427] [exthost] [info] ExtensionService#_doActivateExtension jebbs.plantuml {"startup":false,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"api"}
+[2021-02-21 19:39:03.427] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/jebbs.plantuml-2.14.0/out/src/extension
+[2021-02-21 19:39:04.418] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-21 19:39:04.418] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-21 19:39:04.569] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-21 19:39:04.569] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-02-21 19:39:04.647] [exthost] [info] eager extensions activated
+[2021-02-21 19:39:04.692] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-02-21 19:39:04.692] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-21 19:39:04.719] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-02-21 19:39:04.719] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-21 19:39:04.726] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-02-21 19:39:04.726] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-02-21 19:39:04.729] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-02-21 19:39:04.729] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/formulahendry.code-runner-0.11.2/out/src/extension
+[2021-02-21 19:39:06.209] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":false,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"onStartupFinished"}
+[2021-02-21 19:39:06.209] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension
+[2021-02-21 19:39:06.307] [exthost] [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+[2021-02-21 19:39:06.311] [exthost] [error] TypeError: Class extends value undefined is not a constructor or null
+	at Object.<anonymous> (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:1590274)
+	at n (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:220)
+	at Object.<anonymous> (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:1552210)
+	at n (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:220)
+	at Object.<anonymous> (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:706212)
+	at n (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:220)
+	at /home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:1019
+	at Object.<anonymous> (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:1030)
+	at Module.u._compile (/usr/lib/code/out/vs/loader.js:3:12841)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1173:10)
+	at Module.load (internal/modules/cjs/loader.js:992:32)
+	at Module._load (internal/modules/cjs/loader.js:885:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12738)
+	at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:27152)
+	at Function.p._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:23904)
+	at Function.M._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:62159)
+	at Module.require (internal/modules/cjs/loader.js:1032:19)
+	at require (internal/modules/cjs/helpers.js:72:18)
+	at Function.t [as __$__nodeRequire] (/usr/lib/code/out/vs/loader.js:4:101)
+	at u._loadCommonJSModule (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:25310)
+	at u._doActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:11562)
+	at u._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:10621)
+	at processTicksAndRejections (internal/process/task_queues.js:97:5)
+	at async Promise.all (index 0)
+[2021-02-21 19:40:02.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-02-21 19:40:02.814] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/configurationEditingMain
+[2021-02-21 19:40:02.824] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-02-21 19:40:02.824] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-02-21 19:40:02.860] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-02-21 19:40:02.860] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/npmMain
+[2021-02-21 19:40:04.278] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-02-21 19:40:04.627] [exthost] [info] extension host started
+[2021-02-21 19:40:04.652] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-02-21 19:40:04.652] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extensionEditingMain
+[2021-02-21 19:40:04.656] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-02-21 19:40:04.656] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/markdown-language-features/dist/extension
+[2021-02-21 19:40:04.670] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":false,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"onLanguage:markdown"}
+[2021-02-21 19:40:04.670] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/yzhang.markdown-all-in-one-3.4.0/dist/extension
+[2021-02-21 19:40:04.695] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-21 19:40:04.695] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-21 19:40:04.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":false,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-21 19:40:04.749] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-02-21 19:40:04.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-21 19:40:04.750] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-02-21 19:40:04.762] [exthost] [info] ExtensionService#_doActivateExtension albert.TabOut {"startup":false,"extensionId":{"value":"albert.TabOut","_lower":"albert.tabout"},"activationEvent":"*"}
+[2021-02-21 19:40:04.762] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/albert.tabout-0.2.0/out/src/extension
+[2021-02-21 19:40:04.764] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2021-02-21 19:40:04.764] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2021-02-21 19:40:04.769] [exthost] [info] ExtensionService#_doActivateExtension johnstoncode.svn-scm {"startup":false,"extensionId":{"value":"johnstoncode.svn-scm","_lower":"johnstoncode.svn-scm"},"activationEvent":"*"}
+[2021-02-21 19:40:04.769] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/johnstoncode.svn-scm-2.13.5/out/extension
+[2021-02-21 19:40:04.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-02-21 19:40:04.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/configurationEditingMain
+[2021-02-21 19:40:04.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-02-21 19:40:04.805] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-02-21 19:40:04.835] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-02-21 19:40:04.835] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/npmMain
+[2021-02-21 19:40:04.893] [exthost] [info] ExtensionService#_doActivateExtension jebbs.plantuml {"startup":false,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"api"}
+[2021-02-21 19:40:04.893] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/jebbs.plantuml-2.14.0/out/src/extension
+[2021-02-21 19:40:05.209] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-21 19:40:05.209] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-02-21 19:40:05.224] [exthost] [info] eager extensions activated
+[2021-02-21 19:40:05.248] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-02-21 19:40:05.248] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-21 19:40:05.251] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-02-21 19:40:05.251] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-21 19:40:05.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-02-21 19:40:05.253] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-02-21 19:40:05.254] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-02-21 19:40:05.254] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/formulahendry.code-runner-0.11.2/out/src/extension
+[2021-02-21 19:40:05.276] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":false,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"onStartupFinished"}
+[2021-02-21 19:40:05.276] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension
+[2021-02-21 19:40:05.289] [exthost] [info] exiting with code 0
+[2021-02-21 19:40:05.360] [exthost] [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+[2021-02-21 19:40:05.363] [exthost] [error] TypeError: Class extends value undefined is not a constructor or null
+	at Object.<anonymous> (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:1590274)
+	at n (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:220)
+	at Object.<anonymous> (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:1552210)
+	at n (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:220)
+	at Object.<anonymous> (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:706212)
+	at n (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:220)
+	at /home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:1019
+	at Object.<anonymous> (/home/scrungus/.vscode-oss/extensions/github.vscode-pull-request-github-0.21.0/media/extension.js:1:1030)
+	at Module.u._compile (/usr/lib/code/out/vs/loader.js:3:12841)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1173:10)
+	at Module.load (internal/modules/cjs/loader.js:992:32)
+	at Module._load (internal/modules/cjs/loader.js:885:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12738)
+	at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:27152)
+	at Function.p._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:23904)
+	at Function.M._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:62159)
+	at Module.require (internal/modules/cjs/loader.js:1032:19)
+	at require (internal/modules/cjs/helpers.js:72:18)
+	at Function.t [as __$__nodeRequire] (/usr/lib/code/out/vs/loader.js:4:101)
+	at u._loadCommonJSModule (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:25310)
+	at u._doActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:11562)
+	at u._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:10621)
+	at processTicksAndRejections (internal/process/task_queues.js:97:5)
+	at async Promise.all (index 0)
+[2021-02-21 19:40:09.782] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-02-21 19:40:10.795] [exthost] [info] exiting with code 0

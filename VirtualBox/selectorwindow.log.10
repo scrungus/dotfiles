@@ -1,0 +1,3 @@
+03:20:05.486204 Log continuation - Log started 2019-02-13T09:22:36.478103000Z
+03:20:05.982173 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x18 x 1916x1041
+03:20:05.996365 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 1920x18 x 1916x1041

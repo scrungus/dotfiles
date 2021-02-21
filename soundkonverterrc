@@ -1,0 +1,203 @@
+[Advanced]
+ejectCdAfterRip=true
+maxSizeForSharedMemoryTempFiles=1991
+usePipes=false
+useSharedMemoryForTempFiles=false
+
+[BackendOptimizationsIgnoreList]
+count=0
+
+[Backends]
+3gp_decoders=FFmpeg
+3gp_encoders=
+3gp_replaygain=
+8svx_decoders=SoX
+8svx_encoders=SoX
+8svx_replaygain=
+aac_decoders=FAAC,FFmpeg
+aac_encoders=FAAC,FFmpeg
+aac_replaygain=
+ac3_decoders=FFmpeg
+ac3_encoders=FFmpeg
+ac3_replaygain=
+aiff_decoders=SoX
+aiff_encoders=SoX
+aiff_replaygain=
+als_decoders=FFmpeg
+als_encoders=
+als_replaygain=
+amr nb_decoders=FFmpeg,SoX
+amr nb_encoders=SoX
+amr nb_replaygain=
+amr wb_decoders=FFmpeg,SoX
+amr wb_encoders=SoX
+amr wb_replaygain=
+ape_decoders=FFmpeg
+ape_encoders=
+ape_replaygain=
+audio cd_decoders=cdparanoia
+audio cd_encoders=
+audio cd_replaygain=
+avi_decoders=FFmpeg
+avi_encoders=
+avi_replaygain=
+enabledFilters=
+filters=SoX
+flac_decoders=FLAC,FFmpeg,SoX
+flac_encoders=FLAC,FFmpeg,SoX
+flac_replaygain=Try internal,Metaflac
+flv_decoders=FFmpeg
+flv_encoders=
+flv_replaygain=
+formats=ogg vorbis,mp3,flac,m4a/aac,m4a/alac,wma,3gp,aac,ac3,als,amr nb,amr wb,ape,audio cd,avi,flv,mkv,mov,mp1,mp2,mp4,mpeg,musepack,ogv,opus,ra,rm,rv,sad,shorten,speex,tta,wavpack,webm,wmv,8svx,aiff
+m4a/aac_decoders=FAAC,FFmpeg
+m4a/aac_encoders=FAAC,FFmpeg
+m4a/aac_replaygain=
+m4a/alac_decoders=FFmpeg
+m4a/alac_encoders=FFmpeg
+m4a/alac_replaygain=
+mkv_decoders=FFmpeg
+mkv_encoders=
+mkv_replaygain=
+mov_decoders=FFmpeg
+mov_encoders=
+mov_replaygain=
+mp1_decoders=FFmpeg
+mp1_encoders=
+mp1_replaygain=
+mp2_decoders=FFmpeg,lame,SoX
+mp2_encoders=twolame,FFmpeg,SoX
+mp2_replaygain=
+mp3_decoders=lame,FFmpeg,SoX
+mp3_encoders=lame,FFmpeg,SoX
+mp3_replaygain=
+mp4_decoders=FAAC,FFmpeg
+mp4_encoders=
+mp4_replaygain=
+mpeg_decoders=FFmpeg
+mpeg_encoders=
+mpeg_replaygain=
+musepack_decoders=FFmpeg
+musepack_encoders=
+musepack_replaygain=
+ogg vorbis_decoders=FFmpeg,SoX
+ogg vorbis_encoders=FFmpeg,SoX
+ogg vorbis_replaygain=
+ogv_decoders=FFmpeg
+ogv_encoders=
+ogv_replaygain=
+opus_decoders=
+opus_encoders=FFmpeg
+opus_replaygain=
+ra_decoders=FFmpeg
+ra_encoders=FFmpeg
+ra_replaygain=
+rm_decoders=FFmpeg
+rm_encoders=
+rm_replaygain=
+rv_decoders=FFmpeg
+rv_encoders=
+rv_replaygain=
+sad_decoders=FFmpeg
+sad_encoders=
+sad_replaygain=
+shorten_decoders=FFmpeg
+shorten_encoders=
+shorten_replaygain=
+speex_decoders=Speex,FFmpeg
+speex_encoders=Speex,FFmpeg
+speex_replaygain=
+tta_decoders=FFmpeg
+tta_encoders=FFmpeg
+tta_replaygain=
+wavpack_decoders=WavPack,FFmpeg
+wavpack_encoders=WavPack,FFmpeg
+wavpack_replaygain=Wv Gain
+webm_decoders=FFmpeg
+webm_encoders=
+webm_replaygain=
+wma_decoders=FFmpeg
+wma_encoders=FFmpeg
+wma_replaygain=
+wmv_decoders=FFmpeg
+wmv_encoders=
+wmv_replaygain=
+
+[CDOpener]
+Height 1080=584
+Width 1920=794
+
+[CoverArt]
+writeCoverDefaultName=cover
+writeCoverName=0
+writeCovers=1
+
+[DirOpener]
+Height 1080=417
+Width 1920=794
+
+[FileOpener]
+Height 1080=403
+Width 1920=856
+
+[General]
+actionMenuConvertMimeTypes=application/ogg,audio/vorbis,application/x-ogg,audio/ogg,audio/x-vorbis+ogg,audio/x-mp3,audio/mpeg,audio/mp3,audio/flac,audio/x-flac,audio/x-flac+ogg,audio/x-oggflac,audio/mp4,audio/x-m4a,audio/mp4,audio/x-m4a,audio/x-ms-wma,video/3gpp,audio/3gpp,video/3gpp2,audio/3gpp2,audio/x-8svx,audio/8svx,audio/x-aiff,audio/aiff,audio/aac,audio/ac3,audio/x-aiff,audio/aiff,audio/mp4,audio/amr,audio/3gpp,audio/3gpp2,audio/amr-wb,audio/3gpp,audio/x-ape,video/x-msvideo,video/x-flv,video/flv,video/x-matroska,video/quicktime,audio/mpeg,audio/mpa,audio/mp2,audio/x-mp2,video/mp4,video/mpeg,audio/x-musepack,audio/musepack,video/ogg,audio/vnd.rn-realaudio,application/vnd.rn-realmedia,video/vnd.rn-realvideo,application/x-shorten,audio/x-speex,audio/x-speex+ogg,audio/x-tta,audio/x-wavpack,video/webm,video/x-ms-wmv,video/x-ms-asf,audio/x-wav,audio/wav
+actionMenuReplayGainMimeTypes=audio/flac,audio/x-flac,audio/x-flac+ogg,audio/x-oggflac,audio/x-wavpack
+configVersion=1006
+conflictHandling=0
+copyIfSameCodec=false
+copyStructureOutputDirectory=/home/scrungus/soundKonverter
+defaultFormat=Last used
+defaultProfile=Last used
+lastFormat=mp3
+lastMetaDataOutputDirectoryPaths=/home/scrungus/Music/%a/%b/%d - %n - %t,/home/scrungus/soundKonverter/%b/%d - %n - %a - %t
+lastNormalOutputDirectoryPaths=
+lastOutputDirectoryMode=0
+lastProfile=User defined
+lastTab=1
+metaDataOutputDirectory=/home/scrungus/Music/%a/%b/%d - %n - %t
+numFiles=4
+numReplayGainFiles=4
+preferredOggVorbisExtension=ogg
+preferredVorbisCommentCommentTag=DESCRIPTION
+preferredVorbisCommentDiscTotalTag=DISCTOTAL
+preferredVorbisCommentTrackTotalTag=TRACKTOTAL
+replayGainGrouping=0
+specifyOutputDirectory=/home/scrungus/soundKonverter
+startTab=0
+useVFATNames=false
+waitForAlbumGain=true
+writeLogFiles=false
+
+[KFileDialog Settings]
+Height 1080=540
+Recent Files[$e]=12 - Kiss.flac,file:$HOME/Downloads/Bittorrent/Sangam - All Was Left... [2016]/Sangam - All Was Left... - 01 City Centre (Intro).flac,file:$HOME/Downloads/Bittorrent/Sangam - All Was Left... [2016]/Sangam - All Was Left... - 02 Nowhere.flac,file:$HOME/Downloads/Bittorrent/Sangam - All Was Left... [2016]/Sangam - All Was Left... - 03 Mercury.flac,file:$HOME/Downloads/Bittorrent/Sangam - All Was Left... [2016]/Sangam - All Was Left... - 04 Might.flac,file:$HOME/Downloads/Bittorrent/Sangam - All Was Left... [2016]/Sangam - All Was Left... - 05 September Rain.flac,file:$HOME/Downloads/Bittorrent/Sangam - All Was Left... [2016]/Sangam - All Was Left... - 06 Wonder Why.flac,file:$HOME/Downloads/Bittorrent/Sangam - All Was Left... [2016]/Sangam - All Was Left... - 07 Fortune (Interlude).flac,file:$HOME/Downloads/Bittorrent/Sangam - All Was Left... [2016]/Sangam - All Was Left... - 08 アラ.flac,file:$HOME/Downloads/Bittorrent/Sangam - All Was Left... [2016]/Sangam - All Was Left... - 09 Gather.flac,file:$HOME/Downloads/Bittorrent/Sangam - All Was Left... [2016]/Sangam - All Was Left... - 10 East Lancs.flac,file:$HOME/Downloads/Bittorrent/Sangam - All Was Left... [2016]/Sangam - All Was Left... - 11 Yesterday.flac
+Recent URLs[$e]=file:$HOME/Downloads/Bittorrent/Sangam - All Was Left... [2016]/
+Width 1920=960
+listViewIconSize=0
+
+[MainWindow]
+Height 1080=1041
+State=AAAA/wAAAAD9AAAAAAAAB3wAAAP6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAHQAbwBvAGwAYgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1920=1916
+
+[Plugin-FAAC]
+configVersion=1
+faacHasMp4Support=true
+faacLastModified=2020,1,11,15,25,16
+
+[Plugin-FFmpeg]
+codecList=libopus,mp2,real_144,libmp3lame,vorbis,ac3,libvorbis,libspeex,aac,wavpack,tta,wmav2,flac,wmav1,alac
+configVersion=3
+ffmpegLastModified=2020,1,23,9,42,32
+ffmpegVersionMajor=0
+ffmpegVersionMinor=0
+
+[Plugin-SoX]
+codecList=8svx,flac,mp3,mp2,amr-wb,amr-nb,aiff,wav,vorbis
+configVersion=1
+soxLastModified=2019,6,12,17,55,58
+
+[Recent Dirs]
+soundkonverter-add-media[$e]=file:$HOME/Downloads/Bittorrent/Sangam - All Was Left... [2016]/,file:$HOME/Music/Razoreater/Vacuum Of Nihil/,file:$HOME/Music/Pale Waves/My Mind Makes Noises/

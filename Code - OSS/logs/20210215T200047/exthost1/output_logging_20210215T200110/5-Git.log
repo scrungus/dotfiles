@@ -1,0 +1,41 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :auth/app/api.py
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/api.py
+> git cat-file -s 4869045e4ad080174549d99c0bee8cbcfbb27ee5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/api.py
+> git cat-file -s 4869045e4ad080174549d99c0bee8cbcfbb27ee5
+> git show --textconv :auth/app/api.py
+> git ls-files --stage -- /home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/api.py
+> git cat-file -s 4869045e4ad080174549d99c0bee8cbcfbb27ee5
+> git show --textconv :auth/app/api.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authbranch
+> git rev-parse --symbolic-full-name authbranch@{u}
+> git rev-list --left-right authbranch...refs/remotes/origin/authbranch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

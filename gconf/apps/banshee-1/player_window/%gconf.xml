@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="height" mtime="1546354593" type="int" value="700"/>
+	<entry name="width" mtime="1546354593" type="int" value="1024"/>
+	<entry name="y_pos" mtime="1546354593" type="int" value="190"/>
+	<entry name="x_pos" mtime="1546354593" type="int" value="2368"/>
+	<entry name="maximized" mtime="1546354593" type="bool" value="false"/>
+	<entry name="disable_album_grid" mtime="1546354588" type="bool" value="false"/>
+	<entry name="seek_slider_width" mtime="1546354588" type="int" value="175"/>
+	<entry name="source_view_width" mtime="1546354589" type="int" value="175"/>
+</gconf>

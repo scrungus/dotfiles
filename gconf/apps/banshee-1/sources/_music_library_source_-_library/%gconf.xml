@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="library-location" mtime="1546354589" type="string">
+		<stringvalue>/home/scrungus/Music</stringvalue>
+	</entry>
+	<entry name="expanded" mtime="1546354588" type="bool" value="true"/>
+	<entry name="move-on-info-save" mtime="1546354588" type="bool" value="false"/>
+	<entry name="copy-on-import" mtime="1546354588" type="bool" value="false"/>
+</gconf>

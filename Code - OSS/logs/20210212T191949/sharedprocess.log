@@ -1,0 +1,8 @@
+[2021-02-12 19:19:54.104] [sharedprocess] [info] main {"machineId":"68bb72a60fa8a4a5e512c212461e8b314ebf567dfd2a2ffbacf1523b2803b443","windowId":2}
+[2021-02-12 19:19:59.021] [sharedprocess] [info] Installing extension: redhat.java
+[2021-02-12 19:20:27.384] [sharedprocess] [info] Downloaded extension: redhat.java undefined
+[2021-02-12 19:20:28.040] [sharedprocess] [info] Extracted extension to /home/scrungus/.vscode-oss/extensions/.redhat.java-0.75.0: redhat.java
+[2021-02-12 19:20:28.040] [sharedprocess] [info] Renamed to /home/scrungus/.vscode-oss/extensions/redhat.java-0.75.0
+[2021-02-12 19:20:28.041] [sharedprocess] [info] Installation completed. redhat.java
+[2021-02-12 19:20:28.236] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2021-02-12 19:20:34.121] [sharedprocess] [info] Starting to clean up unused language packs.

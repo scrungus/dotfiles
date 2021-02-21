@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="ATI_R6xx_HDMI-IEC958" mtime="1546288881" type="string">
+		<stringvalue>IEC958</stringvalue>
+	</entry>
+</gconf>

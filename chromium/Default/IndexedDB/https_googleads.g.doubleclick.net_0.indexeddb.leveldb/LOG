@@ -1,0 +1,7 @@
+2020/11/18-16:30:49.978 808 Reusing MANIFEST /home/scrungus/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/18-16:30:49.978 808 Recovering log #3
+2020/11/18-16:30:49.986 808 Reusing old log /home/scrungus/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000003.log 
+2020/11/18-16:30:57.516 821 Level-0 table #5: started
+2020/11/18-16:30:59.252 821 Level-0 table #5: 413 bytes OK
+2020/11/18-16:31:00.089 821 Delete type=0 #3
+2020/11/18-16:31:00.090 821 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

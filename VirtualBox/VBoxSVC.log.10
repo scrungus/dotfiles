@@ -1,0 +1,49 @@
+00:00:00.019840 main     VirtualBox XPCOM Server 6.0.2 r127994 linux.amd64 (Jan 15 2019 20:58:16) release log
+00:00:00.019848 main     Log opened 2019-02-04T15:59:27.724763000Z
+00:00:00.019850 main     Build Type: release
+00:00:00.019855 main     OS Product: Linux
+00:00:00.019857 main     OS Release: 4.18.16-rt9-MANJARO
+00:00:00.019860 main     OS Version: #1 SMP PREEMPT RT Mon Oct 29 18:36:52 UTC 2018
+00:00:00.019918 main     DMI Product Name: System Product Name
+00:00:00.019964 main     DMI Product Version: System Version
+00:00:00.020055 main     Host RAM: 15932MB (15.5GB) total, 13592MB (13.2GB) available
+00:00:00.020063 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.020065 main     Process ID: 19532
+00:00:00.020066 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.025330 main     IPC socket path: /tmp/.vbox-scrungus-ipc/ipcd
+00:00:00.149253 nspr-2   VirtualBox: object creation starts
+00:00:00.150287 nspr-2   Home directory: '/home/scrungus/.config/VirtualBox'
+00:00:00.156390 nspr-2   Loading settings file "/home/scrungus/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.181802 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.183748 nspr-2   NAT: resolv.conf: nameserver 192.168.1.254
+00:00:00.183858 nspr-2   HostDnsMonitor::updateInfo
+00:00:00.183905 nspr-2   HostDnsMonitor: old information
+00:00:00.183916 nspr-2     no server entries
+00:00:00.183926 nspr-2     no domain set
+00:00:00.183935 nspr-2     no search string entries
+00:00:00.183944 nspr-2   HostDnsMonitor: new information
+00:00:00.183953 nspr-2     server 1: 192.168.1.254
+00:00:00.183964 nspr-2     domain: home
+00:00:00.183973 nspr-2     search string 1: home
+00:00:00.192080 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.194022 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d55176e5-6730-4e9e-fc1f-a59b1f44f78f} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.216002 nspr-2   Loading settings file "/home/VMachines/Windows 10 Pro/Windows 10 Pro.vbox" with version "1.15-linux"
+00:00:00.218257 nspr-2   Loading settings file "/home/VMachines/TempleOS/TempleOS.vbox" with version "1.15-linux"
+00:00:00.249856 nspr-2   Loading settings file "/home/scrungus/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox" with version "1.15-linux"
+00:00:00.263054 nspr-2   Loading settings file "/home/scrungus/VirtualBox VMs/Whonix-Workstation-XFCE/Whonix-Workstation-XFCE.vbox" with version "1.15-linux"
+00:00:00.264976 nspr-2   VirtualBox: object created
+00:00:01.134290 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:01.269255 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:01.271062 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:05.672936 nspr-3   Saving settings file "/home/scrungus/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:05.932153 nspr-3   Saving settings file "/home/scrungus/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:23.836251 nspr-3   Saving settings file "/home/scrungus/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:24.241895 nspr-5   Saving settings file "/home/scrungus/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:24.612057 nspr-3   Saving settings file "/home/scrungus/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:24.792054 nspr-2   Saving settings file "/home/scrungus/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:30.465391 main     VirtualBox: object deletion starts
+00:01:30.465493 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/VMachines/Windows 10 Pro/Windows 10 Pro.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:01:30.471590 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/VMachines/TempleOS/NewVirtualDisk1.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:01:30.789992 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:01:35.472829 main     {00007fdbbc0194d0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:01:35.473470 main     VirtualBox: object deleted

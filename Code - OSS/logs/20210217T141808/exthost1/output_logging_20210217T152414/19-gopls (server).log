@@ -1,0 +1,44 @@
+[Info  - 15:24:14] 2021/02/17 15:24:14 go env for /home/scrungus/Documents/code/IGP
+(root /home/scrungus/Documents/code/IGP)
+(go version go version go1.15.5 linux/amd64)
+(valid build configuration = false)
+(build flags: [])
+GO111MODULE=
+GOCACHE=/home/scrungus/.cache/go-build
+GOINSECURE=
+GOPATH=/home/scrungus/go
+GOPRIVATE=
+GOROOT=/usr/lib/go
+GONOPROXY=
+GONOSUMDB=
+GOPROXY=https://proxy.golang.org,direct
+GOSUMDB=sum.golang.org
+GOFLAGS=
+GOMOD=
+GOMODCACHE=/home/scrungus/go/pkg/mod
+
+
+[Info  - 15:24:14] 2021/02/17 15:24:14 go/packages.Load
+	snapshot=0
+	directory=/home/scrungus/Documents/code/IGP
+	query=[./ builtin]
+	packages=2
+
+[Info  - 15:24:14] 2021/02/17 15:24:14 go/packages.Load
+	snapshot=0
+	directory=/home/scrungus/Documents/code/IGP
+	query=[./]
+	packages=1
+
+[Info  - 15:24:14] 2021/02/17 15:24:14 go/packages.Load
+	snapshot=0
+	directory=/home/scrungus/Documents/code/IGP
+	query=[./]
+	packages=1
+
+[Info  - 15:24:14] 2021/02/17 15:24:14 go/packages.Load
+	snapshot=0
+	directory=/home/scrungus/Documents/code/IGP
+	query=[./]
+	packages=1
+

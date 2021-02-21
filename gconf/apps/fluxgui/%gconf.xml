@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="zipcode" mtime="1546536912" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="longitude" mtime="1546536912" type="string">
+		<stringvalue>18.955</stringvalue>
+	</entry>
+	<entry name="latitude" mtime="1546536912" type="string">
+		<stringvalue>69.6492</stringvalue>
+	</entry>
+	<entry name="colortemp" mtime="1546958017" type="string">
+		<stringvalue>2700</stringvalue>
+	</entry>
+	<entry name="autostart" mtime="1546536912" type="bool" value="true"/>
+</gconf>

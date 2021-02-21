@@ -1,0 +1,40 @@
+{
+   "checksum": "8cd585cbcd1675fefced81fc48ed990f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13252006143994583",
+            "guid": "701cd639-243f-45d9-a2c7-4ac551420135",
+            "id": "5",
+            "name": "Move to Sweden | The Swedish Tax Agency",
+            "type": "url",
+            "url": "https://www1.skatteverket.se/fhxp51/inv_anm/nuvarandeadress"
+         } ],
+         "date_added": "13227893838192962",
+         "date_modified": "13252006143994583",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13227893838192965",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13227893838192966",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

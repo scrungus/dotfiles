@@ -1,0 +1,599 @@
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'ShowExtensionSurveyPrompt - control'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'LocalZMQKernel - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'RunByLine - experiment'
+User belongs to experiment group 'CustomEditorSupport - control'
+User belongs to experiment group 'pythonaacf'
+User belongs to experiment group 'pythonNotDisplayLinterPrompt'
+User belongs to experiment group 'pythonSendEntireLineToREPL'
+> conda --version
+> pyenv root
+> python3.7 ~/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> ~/Documents/code/python/BankingApp/bin/python ~/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Error 2021-02-11 15:59:54: Detection of Python Interpreter for Command /home/scrungus/Documents/code/python/BankingApp/bin/python and args  failed as file  does not exist
+> conda info --json
+Error 2021-02-11 15:59:55: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/home/scrungus/.config/Code/User/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/scrungus/.config/Code/User/settings.json')
+	at _handleError (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:730:838)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async y.readText (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:9:168994)
+	at async p.doesFileNeedToBeFixed (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:963651)
+	at async /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962778
+	at async Promise.all (index 0)
+	at async p.getFilesToBeFixed (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962724)
+	at async p.updateTestSettings (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962351)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+Error 2021-02-11 15:59:55: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/home/scrungus/Documents/code/IGP/.vscode/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/scrungus/Documents/code/IGP/.vscode/settings.json')
+	at _handleError (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:730:838)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async y.readText (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:9:168994)
+	at async p.doesFileNeedToBeFixed (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:963651)
+	at async /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962778
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962724)
+	at async p.updateTestSettings (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962351)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+Error 2021-02-11 15:59:55: Failed to get interpreter information for '/home/scrungus/Documents/code/python/BankingApp/bin/python' [Error: Command failed: "/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+/home/scrungus/Documents/code/python/BankingApp/bin/python: error while loading shared libraries: libpython3.7m.so.1.0: cannot open shared object file: No such file or directory
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '"/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"'
+}
+> conda env list
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/bin/python2,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /opt/anaconda/bin/python3,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: getActivatedEnvironmentVariables [Error: Command failed: . /home/scrungus/Documents/code/python/BankingApp/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/printEnvVariables.py
+bash: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+python: error while loading shared libraries: libpython3.7m.so.1.0: cannot open shared object file: No such file or directory
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: ". /home/scrungus/Documents/code/python/BankingApp/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/printEnvVariables.py"
+}
+Error 2021-02-11 15:59:56: Failed to get interpreter information for '/home/scrungus/Documents/code/python/BankingApp/bin/python' [Error: Command failed: "/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+/home/scrungus/Documents/code/python/BankingApp/bin/python: error while loading shared libraries: libpython3.7m.so.1.0: cannot open shared object file: No such file or directory
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '"/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"'
+}
+Error 2021-02-11 15:59:56: Failed to get interpreter information for '/home/scrungus/Documents/code/python/BankingApp/bin/python' [Error: Command failed: "/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+/home/scrungus/Documents/code/python/BankingApp/bin/python: error while loading shared libraries: libpython3.7m.so.1.0: cannot open shared object file: No such file or directory
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '"/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"'
+}
+Error 2021-02-11 15:59:56: Failed to get interpreter information for '/home/scrungus/Documents/code/python/BankingApp/bin/python' [Error: Command failed: "/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+/home/scrungus/Documents/code/python/BankingApp/bin/python: error while loading shared libraries: libpython3.7m.so.1.0: cannot open shared object file: No such file or directory
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '"/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"'
+}
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /sbin/python3.8,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /sbin/python3,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /sbin/python2.7,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /sbin/python2,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /sbin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/sbin/python3.8,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/sbin/python3,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/sbin/python2.7,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/sbin/python2,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/sbin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /bin/python3.8,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /bin/python3,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /bin/python2.7,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /bin/python2,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/bin/python3.8,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/bin/python3,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/bin/python2.7,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/bin/python2,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /bin/python3.8,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /bin/python3,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /bin/python2.7,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /bin/python2,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/bin/python3.8,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/bin/python3,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/bin/python2.7,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/bin/python2,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /usr/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /opt/anaconda/bin/python3.8,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /opt/anaconda/bin/python3,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:56: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+> pyenv root
+> pyenv root
+Error 2021-02-11 15:59:57: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 15:59:57: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> conda env list
+Error 2021-02-11 15:59:57: Python Extension: interpreterManager.refresh [Error: [ms-python.python]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+	at a (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:659:99)
+	at Object.t.checkProposedApiEnabled (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:659:567)
+	at Object.get activeNotebookEditor [as activeNotebookEditor] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1010:158)
+	at u.get activeNotebookEditor [as activeNotebookEditor] (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:1203223)
+	at u.get hidden [as hidden] (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:647038)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:846357
+	at Array.every (<anonymous>)
+	at g.updateVisibility (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:846345)
+	at g.updateDisplay (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:846218)
+	at async g.refresh (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:845171)]
+Error 2021-02-11 15:59:57: Failed to get interpreter information for '/home/scrungus/Documents/code/python/BankingApp/bin/python' [Error: Command failed: "/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+/home/scrungus/Documents/code/python/BankingApp/bin/python: error while loading shared libraries: libpython3.7m.so.1.0: cannot open shared object file: No such file or directory
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '"/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"'
+}
+> pyenv root
+Error 2021-02-11 15:59:58: Failed to get interpreter information for '/home/scrungus/Documents/code/python/BankingApp/bin/python' [Error: Command failed: "/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+/home/scrungus/Documents/code/python/BankingApp/bin/python: error while loading shared libraries: libpython3.7m.so.1.0: cannot open shared object file: No such file or directory
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '"/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"'
+}
+> pyenv root
+Starting Microsoft Python language server.
+Error 2021-02-11 16:00:00: Failed to get analysis options, Class name = u, completed in 1ms, has a falsy return value, , Return Value: undefined [Error: did not find an active interpreter
+	at f.getInitializationOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:35435)
+	at f.getAnalysisOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:17:5622)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at f.r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.startLanguageServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52901)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.l.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:9724)
+	at r.start (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52119)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+Error 2021-02-11 16:00:00: Starting language server, Class name = r, completed in 2ms, has a falsy return value, , Return Value: undefined [Error: did not find an active interpreter
+	at f.getInitializationOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:35435)
+	at f.getAnalysisOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:17:5622)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at f.r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.startLanguageServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52901)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.l.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:9724)
+	at r.start (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52119)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+Error 2021-02-11 16:00:00: Failed to start language server, Class name = r, completed in 7ms, has a falsy return value, Arg 1: <Uri:/home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/api.py>, Arg 2: undefined, Return Value: undefined [Error: did not find an active interpreter
+	at f.getInitializationOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:35435)
+	at f.getAnalysisOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:17:5622)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at f.r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.startLanguageServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52901)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.l.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:9724)
+	at r.start (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52119)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+Error 2021-02-11 16:00:00: Failed to activate language server, Class name = a, completed in 870ms, has a falsy return value, Arg 1: <Uri:/home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/api.py>, Arg 2: undefined, Return Value: undefined [Error: did not find an active interpreter
+	at f.getInitializationOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:35435)
+	at f.getAnalysisOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:17:5622)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at f.r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.startLanguageServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52901)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.l.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:9724)
+	at r.start (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52119)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+We encountered an issue starting the language server. Reverting to Jedi language engine. Check the Python output panel for details.
+Error 2021-02-11 16:00:00: Failed to activate a workspace, Class name = y, completed in 6549ms, has a falsy return value, Arg 1: <Uri:/home/scrungus/Documents/code/IGP/SpotifyPlaylistMaker/auth/app/api.py>, Return Value: undefined [Error: No matching bindings found for serviceIdentifier: Symbol(ILanguageServerActivator)
+ Symbol(ILanguageServerActivator) - named: Jedi 
+
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:258487
+	at m (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:258784)
+	at e (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:259275)
+	at Object.t.plan (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:259938)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:256591
+	at e._get (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:256500)
+	at e.getTagged (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:255302)
+	at e.getNamed (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:255394)
+	at a.get (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:1437830)
+	at C.createRefCountedServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:303781)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async C.activate (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:301423)
+	at async Promise.all (index 4)
+	at async y.activateWorkspace (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:296505)]
+Error 2021-02-11 16:00:00: Failure during activation. [Error: No matching bindings found for serviceIdentifier: Symbol(ILanguageServerActivator)
+ Symbol(ILanguageServerActivator) - named: Jedi 
+
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:258487
+	at m (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:258784)
+	at e (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:259275)
+	at Object.t.plan (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:259938)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:256591
+	at e._get (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:256500)
+	at e.getTagged (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:255302)
+	at e.getNamed (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:255394)
+	at a.get (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:1437830)
+	at C.createRefCountedServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:303781)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async C.activate (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:301423)
+	at async Promise.all (index 4)
+	at async y.activateWorkspace (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:296505)]
+Error 2021-02-11 16:00:00: sendStartupTelemetry() failed. [Error: No matching bindings found for serviceIdentifier: Symbol(ILanguageServerActivator)
+ Symbol(ILanguageServerActivator) - named: Jedi 
+
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:258487
+	at m (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:258784)
+	at e (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:259275)
+	at Object.t.plan (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:259938)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:256591
+	at e._get (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:256500)
+	at e.getTagged (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:255302)
+	at e.getNamed (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:255394)
+	at a.get (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:1437830)
+	at C.createRefCountedServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:303781)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async C.activate (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:301423)
+	at async Promise.all (index 4)
+	at async y.activateWorkspace (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:296505)]
+Error 2021-02-11 16:15:33: Failed to get interpreter information for '/home/scrungus/Documents/code/python/BankingApp/bin/python' [Error: Command failed: "/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+/home/scrungus/Documents/code/python/BankingApp/bin/python: error while loading shared libraries: libpython3.7m.so.1.0: cannot open shared object file: No such file or directory
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '"/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"'
+}
+> pyenv root
+Error 2021-02-11 16:15:35: Failed to get interpreter information for '/home/scrungus/Documents/code/python/BankingApp/bin/python' [Error: Command failed: "/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+/home/scrungus/Documents/code/python/BankingApp/bin/python: error while loading shared libraries: libpython3.7m.so.1.0: cannot open shared object file: No such file or directory
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '"/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"'
+}
+> pyenv root
+Error 2021-02-11 16:30:48: Failed to get interpreter information for '/home/scrungus/Documents/code/python/BankingApp/bin/python' [Error: Command failed: "/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+/home/scrungus/Documents/code/python/BankingApp/bin/python: error while loading shared libraries: libpython3.7m.so.1.0: cannot open shared object file: No such file or directory
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '"/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"'
+}
+> pyenv root
+Error 2021-02-11 16:31:39: Failed to get interpreter information for '/home/scrungus/Documents/code/python/BankingApp/bin/python' [Error: Command failed: "/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+/home/scrungus/Documents/code/python/BankingApp/bin/python: error while loading shared libraries: libpython3.7m.so.1.0: cannot open shared object file: No such file or directory
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '"/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"'
+}
+> pyenv root
+Error 2021-02-11 16:31:45: Failed to get interpreter information for '/home/scrungus/Documents/code/python/BankingApp/bin/python' [Error: Command failed: "/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+/home/scrungus/Documents/code/python/BankingApp/bin/python: error while loading shared libraries: libpython3.7m.so.1.0: cannot open shared object file: No such file or directory
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '"/home/scrungus/Documents/code/python/BankingApp/bin/python" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py" "/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py"'
+}
+> pyenv root
+> conda info --json
+> pyenv root
+> pyenv root
+Error 2021-02-11 16:32:35: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 16:32:35: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 16:32:36: Python Extension: display.refresh [Error: [ms-python.python]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+	at a (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:659:99)
+	at Object.t.checkProposedApiEnabled (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:659:567)
+	at Object.get activeNotebookEditor [as activeNotebookEditor] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1010:158)
+	at u.get activeNotebookEditor [as activeNotebookEditor] (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:1203223)
+	at u.get hidden [as hidden] (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:647038)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:846357
+	at Array.every (<anonymous>)
+	at g.updateVisibility (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:846345)
+	at g.updateDisplay (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:846218)
+	at async g.refresh (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:845171)]
+> pyenv root
+Error 2021-02-11 16:32:36: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+Error 2021-02-11 16:32:36: getActivatedEnvironmentVariables [Error: StdErr from ShellExec, bash: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+ for . /opt/anaconda/bin/activate && conda activate base && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/printEnvVariables.py
+	at E.getActivatedEnvironmentVariablesImpl (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:801463)]
+Error 2021-02-11 16:32:37: Failed to get analysis options, Class name = u, completed in 1ms, has a falsy return value, , Return Value: undefined [Error: did not find an active interpreter
+	at f.getInitializationOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:35435)
+	at f.getAnalysisOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:17:5622)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at f.r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.startLanguageServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52901)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.l.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:9724)
+	at restartLanguageServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52741)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at restartLanguageServerDebounced (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52612)
+	at r.<anonymous> (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:180055)
+	at y (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:122422)
+	at w (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:122697)
+	at Timeout.S [as _onTimeout] (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:122587)
+	at listOnTimeout (internal/timers.js:531:17)
+	at processTimers (internal/timers.js:475:7)]
+Error 2021-02-11 16:32:37: Starting language server, Class name = r, completed in 5ms, has a falsy return value, , Return Value: undefined [Error: did not find an active interpreter
+	at f.getInitializationOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:35435)
+	at f.getAnalysisOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:17:5622)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at f.r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.startLanguageServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52901)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.l.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:9724)
+	at restartLanguageServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52741)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at restartLanguageServerDebounced (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52612)
+	at r.<anonymous> (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:180055)
+	at y (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:122422)
+	at w (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:122697)
+	at Timeout.S [as _onTimeout] (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:122587)
+	at listOnTimeout (internal/timers.js:531:17)
+	at processTimers (internal/timers.js:475:7)]
+Error 2021-02-11 16:32:37: Restarting language server, Class name = r, completed in 9ms, has a falsy return value, , Return Value: undefined [Error: did not find an active interpreter
+	at f.getInitializationOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:35435)
+	at f.getAnalysisOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:17:5622)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at f.r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.startLanguageServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52901)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.l.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:9724)
+	at restartLanguageServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52741)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at restartLanguageServerDebounced (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52612)
+	at r.<anonymous> (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:180055)
+	at y (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:122422)
+	at w (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:122697)
+	at Timeout.S [as _onTimeout] (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:122587)
+	at listOnTimeout (internal/timers.js:531:17)
+	at processTimers (internal/timers.js:475:7)]
+Error 2021-02-11 16:32:37: Failed to restart language server, Class name = r, completed in 10ms, has a falsy return value, , Return Value: undefined [Error: did not find an active interpreter
+	at f.getInitializationOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:35435)
+	at f.getAnalysisOptions (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:17:5622)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at f.r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.startLanguageServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52901)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at r.l.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:9724)
+	at restartLanguageServer (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52741)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at /home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182152
+	at Object.t.tracing (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:155476)
+	at r.value (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:182128)
+	at restartLanguageServerDebounced (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:52612)
+	at r.<anonymous> (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:1:180055)
+	at y (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:122422)
+	at w (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:122697)
+	at Timeout.S [as _onTimeout] (/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:122587)
+	at listOnTimeout (internal/timers.js:531:17)
+	at processTimers (internal/timers.js:475:7)]
+> pyenv root
+Error 2021-02-11 16:32:37: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 16:32:37: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> conda info --json
+> conda info --json
+> pyenv root
+Error 2021-02-11 18:19:42: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 18:20:45: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 18:20:50: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 18:21:36: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 18:21:37: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 18:21:39: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 18:21:42: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 18:21:44: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 18:23:26: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 18:23:28: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 18:23:31: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 18:23:40: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 18:24:25: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
+> pyenv root
+Error 2021-02-11 18:45:42: Failed to parse interpreter information for /opt/anaconda/bin/python,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py,/home/scrungus/.vscode-oss/extensions/ms-python.python-2020.10.332292344/pythonFiles/interpreterInfo.py stderr: /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en-GB)
+
